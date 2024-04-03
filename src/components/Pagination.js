@@ -92,7 +92,7 @@ const Pagination = () => {
     return (
       <div className="flex items-center">
         <PerPage />
-        <ul className="flex items-center justify-end text-sm">
+        <ul className="flex items-center justify-end text-sm md:ml-2">
           <li className="flex items-center">
             <button className="outline-0 hover:text-cyan w-8" onClick={prev}>
               <img
