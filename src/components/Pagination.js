@@ -44,7 +44,7 @@ const PerPage = () => {
      "
       />
       <button type="submit" className="ml-1 cursor-pointer">
-        <img src={submitIcon} alt="submit" className="w-full h-full" />
+        <img src={submitIcon} alt="submit" className="w-full h-full md:w-auto md:h-auto" />
       </button>
     </form>
   );
