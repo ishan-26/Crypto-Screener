@@ -170,7 +170,7 @@ const Pagination = () => {
             </li>
           ) : null}
           <li>
-            <button className="outline-0 hover:text-cyan w-8" onClick={next}>
+            <button className="outline-0 hover:text-cyan w-8 md:ml-2" onClick={next}>
               <img
                 className="w-full h-auto"
                 src={paginationArrow}
