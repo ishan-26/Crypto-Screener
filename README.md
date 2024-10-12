@@ -23,7 +23,7 @@ Welcome to the **CryptoBucks**! 🚀 A user-friendly platform designed to help y
 
 1. Clone the repository:
 ```
-   git clone https://github.com/yourusername/CryptoScreener.git
+   git clone https://github.com/ishan-26/CryptoScreener.git
 ```
 2. Install the dependencies:
 ```
