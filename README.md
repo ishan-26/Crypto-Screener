@@ -19,6 +19,8 @@ Welcome to the **CryptoBucks**! 🚀 A user-friendly platform designed to help y
 - **Trending Coins**: Stay updated with the latest trending cryptocurrencies. 🌟
 - **Watchlist**: Save your favorite coins to keep an eye on their performance. ❤️
 
+## Try now ! 
+- [CryptoBucks](https://crypto-screener-hazel.vercel.app/)
 ## 🚀 Getting Started
 
 1. Clone the repository:
