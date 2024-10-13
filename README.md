@@ -16,8 +16,9 @@ Welcome to the **CryptoBucks**! 🚀 A user-friendly platform designed to help y
 - **Interactive Charts**: Visualize cryptocurrency trends and insights with user-friendly charts. 📊
 - **Simple UI**: Designed for beginners in the crypto space, making it easy to navigate. 📱
 - **Link to Forums**: Connect with the community and discuss trends and strategies. 💬
-- **Trending Coins**: Stay updated with the latest trending cryptocurrencies. 🌟
+- **Trending Coins**: Stay updated with the latest trending cryptocurrencies. 🪙
 - **Watchlist**: Save your favorite coins to keep an eye on their performance. ❤️
+- **BTC Conversions**: Check cryptocurrency prices in your preferred local currency with ease. 💱
 
 ## Try now ! 
 - [CryptoBucks](https://crypto-screener-hazel.vercel.app/)
