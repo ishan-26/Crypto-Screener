@@ -14,7 +14,7 @@ Welcome to the **CryptoBucks**! 🚀 A user-friendly platform designed to help y
 
 - **No Login Required**: Start using the app without the hassle of creating an account! 🙌
 - **Interactive Charts**: Visualize cryptocurrency trends and insights with user-friendly charts. 📊
-- **Simple UI**: Designed for beginners in the crypto space, making it easy to navigate. 🆕
+- **Simple UI**: Designed for beginners in the crypto space, making it easy to navigate. 📱
 - **Link to Forums**: Connect with the community and discuss trends and strategies. 💬
 - **Trending Coins**: Stay updated with the latest trending cryptocurrencies. 🌟
 - **Watchlist**: Save your favorite coins to keep an eye on their performance. ❤️
