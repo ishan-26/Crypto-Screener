@@ -1,4 +1,4 @@
-# 📈 CryptoBucks App 📈
+# ₿ CryptoBucks App ₿
 
 Welcome to the **CryptoBucks**! 🚀 A user-friendly platform designed to help you track and analyze cryptocurrencies effortlessly.
 
